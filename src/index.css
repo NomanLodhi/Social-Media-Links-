@@ -1,0 +1,27 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  background: rgb(91,4,92) !important;
+background: linear-gradient(90deg, rgba(91,4,92,1) 30%, rgba(124,68,170,1) 54%, rgba(153,104,176,1) 74%, rgba(139,134,201,1) 99%) !important;
+}
+.bg-card{
+  background: rgb(91,4,92) !important;
+  background: linear-gradient(90deg, rgba(91,4,82,1) 30%, rgba(124,78,170,1) 54%, rgba(155,104,176,1) 74%, rgba(139,134,201,1) 99%) !important;
+}
+.btn-social{
+transition: all 2s ease !important;
+}
+.btn-social a{
+  color: white;
+}
+.btn-social:hover{
+  color: black;
+}
+.btn-social:hover a{
+  color: black;
+}
+
+
